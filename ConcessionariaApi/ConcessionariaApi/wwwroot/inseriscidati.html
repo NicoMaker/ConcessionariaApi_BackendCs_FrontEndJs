@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <script src="js/Inserisci.js" defer></script>
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <h1>Inserimento dati</h1>
+
+    <p>Tipo
+
+        <select id="Options">
+            <option value="Motorbike">Moto </option>
+            <option value="Car">Auto</option>
+        </select>
+
+    </p>
+
+    <p>Modello
+        <input type="text" id="Model" placeholder="inserisci modello"> </input>
+    </p>
+
+
+    <p>Cilindrata
+        <input type="number" id="Displacement" placeholder="inserisci Cilindrata"> </input>
+    </p>
+
+    <p>Colore
+        <input type="text" id="Colour" placeholder="inserisci colore"> </input>
+    </p>
+
+    <p>Numero posti a sedere
+        <input type="number" id="Seats" placeholder="inserisci numero dei posti"> </input>
+    </p>
+
+    <div id="PortField" style="display: none;">
+        <p>Numero porte
+            <input type="number" id="Port" placeholder="numero porte"> </input>
+        </p>
+    </div>
+
+
+    <p>
+        <button onclick="PostApiData()">Invia Dati</button>
+
+        <a href="index.html">
+            <button>Home</button>
+        </a>
+    </p>
+
+    <div id="Dati"></div>
+
+</body>
+
+</html>

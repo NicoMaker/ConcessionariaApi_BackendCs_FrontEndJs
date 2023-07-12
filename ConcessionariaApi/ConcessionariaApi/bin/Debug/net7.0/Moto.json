@@ -1,0 +1,37 @@
+[
+  {
+    "Model": "BMW GT2",
+    "Displacement": 950,
+    "Colour": "nero",
+    "Seats": 2,
+    "Type": "Motorbike"
+  },
+  {
+    "Model": "Yamaha F20",
+    "Displacement": 1500,
+    "Colour": "rossa",
+    "Seats": 2,
+    "Type": "Motorbike"
+  },
+  {
+    "Model": "Xtown UTW",
+    "Displacement": 1000,
+    "Colour": "grigio",
+    "Seats": 2,
+    "Type": "Motorbike"
+  },
+  {
+    "Model": "Yamaha 89",
+    "Displacement": 1600,
+    "Colour": "blu",
+    "Seats": 2,
+    "Type": "Motorbike"
+  },
+  {
+    "Model": "Bmw Gran Turismo",
+    "Displacement": 1300,
+    "Colour": "nera",
+    "Seats": 2,
+    "Type": "Motorbike"
+  }
+]

@@ -1,0 +1,89 @@
+.dati {
+    margin-bottom: 50px;
+}
+
+#element-auto .dati
+{
+    color: red;
+    border: dashed green 10px;
+}
+
+
+#element-moto .dati
+{
+    color: green;
+    border: dashed cyan 10px;
+}
+
+#element-auto .dati , #element-moto .dati
+{
+    font-size: 35px;
+    border-radius: 50px;
+    text-align: center;
+}
+
+h1
+{
+    color: aquamarine;
+    background-color: black;
+    border-radius: 50px;
+    font-size: 100px;
+}
+
+body
+{
+    text-align: center;
+}
+
+.model
+{
+    font-size : 70px;
+}
+
+button
+{
+    text-align: center;
+    background-color: yellow;
+    color: darkblue;
+    font-size: 50px;
+    border-radius: 50px;
+    font-weight: bold;
+    padding: 10px;
+}
+
+button:hover
+{
+    color: red;
+}
+
+select
+{
+    text-align: center;
+    border-radius: 50px;
+    color:black;
+    font-size: 35px;
+    padding: 10px;
+}
+
+select:hover
+{
+    background-color: cyan;
+}
+
+p
+{
+    font-size: 35px ;
+}
+
+input
+{
+    text-align: center;
+    border-radius: 50px;
+    font-size: 20px;
+}
+
+#Dati
+{
+    color: green;
+    font-size: 30px;
+}

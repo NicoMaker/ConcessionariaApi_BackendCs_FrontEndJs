@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Dati API</title>
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <script>
+    $(document).ready(function() {
+      $.ajax({
+        url: 'https://localhost:7135',
+        method: 'GET',
+        success: function(data) {
+          // Elabora i dati API qui e aggiorna il contenuto dell'HTML
+          var risultato = data.risultato; // Esempio di dato da ottenere
+          $('#risultato').text(risultato);
+        },
+        error: function() {
+          // Gestisci l'errore della richiesta API qui
+          $('#risultato').text('Errore durante la richiesta API.');
+        }
+      });
+    });
+  </script>
+</head>
+<body>
+  <h1>Risultato API:</h1>
+  <p id="risultato">Caricamento...</p>
+</body>
+</html>

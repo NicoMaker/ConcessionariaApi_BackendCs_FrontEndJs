@@ -1,0 +1,42 @@
+[
+  {
+    "Port": 5,
+    "Model": "Kia Rio",
+    "Displacement": 1500,
+    "Colour": "Bianco",
+    "Seats": 5,
+    "Type": "Car"
+  },
+  {
+    "Port": 3,
+    "Model": "Ferrari F50",
+    "Displacement": 8000,
+    "Colour": "rossa",
+    "Seats": 2,
+    "Type": "Car"
+  },
+  {
+    "Port": 5,
+    "Model": "Ford Fiesta",
+    "Displacement": 1600,
+    "Colour": "verde",
+    "Seats": 5,
+    "Type": "Car"
+  },
+  {
+    "Port": 5,
+    "Model": "Ford Focus",
+    "Displacement": 1600,
+    "Colour": "blu",
+    "Seats": 5,
+    "Type": "Car"
+  },
+  {
+    "Port": 5,
+    "Model": "Kia Carens",
+    "Displacement": 1600,
+    "Colour": "Bianco",
+    "Seats": 5,
+    "Type": "Car"
+  }
+]

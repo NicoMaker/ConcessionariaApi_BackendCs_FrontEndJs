@@ -1,0 +1,49 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Corso ITS IIOT\\Stage\\Concessionaria Api\\ConcessionariaApi\\ConcessionariaApi\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "D:\\Corso ITS IIOT\\Stage\\Concessionaria Api\\ConcessionariaApi\\ConcessionariaApi\\wwwroot\\inseriscidati.html",
+      "PackagePath": "staticwebassets\\inseriscidati.html"
+    },
+    {
+      "Id": "D:\\Corso ITS IIOT\\Stage\\Concessionaria Api\\ConcessionariaApi\\ConcessionariaApi\\wwwroot\\js\\Inserisci.js",
+      "PackagePath": "staticwebassets\\js\\Inserisci.js"
+    },
+    {
+      "Id": "D:\\Corso ITS IIOT\\Stage\\Concessionaria Api\\ConcessionariaApi\\ConcessionariaApi\\wwwroot\\js\\auto.js",
+      "PackagePath": "staticwebassets\\js\\auto.js"
+    },
+    {
+      "Id": "D:\\Corso ITS IIOT\\Stage\\Concessionaria Api\\ConcessionariaApi\\ConcessionariaApi\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "D:\\Corso ITS IIOT\\Stage\\Concessionaria Api\\ConcessionariaApi\\ConcessionariaApi\\wwwroot\\js\\moto.js",
+      "PackagePath": "staticwebassets\\js\\moto.js"
+    },
+    {
+      "Id": "D:\\Corso ITS IIOT\\Stage\\Concessionaria Api\\ConcessionariaApi\\ConcessionariaApi\\wwwroot\\style.css",
+      "PackagePath": "staticwebassets\\style.css"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.ConcessionariaApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.ConcessionariaApi.props",
+      "PackagePath": "build\\ConcessionariaApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.ConcessionariaApi.props",
+      "PackagePath": "buildMultiTargeting\\ConcessionariaApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.ConcessionariaApi.props",
+      "PackagePath": "buildTransitive\\ConcessionariaApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
